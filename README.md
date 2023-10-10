@@ -5,7 +5,7 @@
 ![Webpage](interface-chopin.png)
 SIMP is a web-based prototype tool that allows users to interactively explore and navigate classical piano recordings alongside their corresponding scores.
 
-The project website is at [https://facultystaff.richmond.edu/~yjiang3/papers/am23/] (https://facultystaff.richmond.edu/~yjiang3/papers/am23/).
+The project website is at [https://facultystaff.richmond.edu/~yjiang3/papers/am23/](https://facultystaff.richmond.edu/~yjiang3/papers/am23/).
 
 ## Dataset
 Our musical repertoire currently contains 54 performances played by 20 world-renowned pianists. The table below shows the specific breakdown of the contents within our database.
